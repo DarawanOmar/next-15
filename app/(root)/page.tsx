@@ -1,6 +1,7 @@
 import ShinyText from "@/components/layout/shiny-text";
 
 export default function Home() {
+  // Push
   return (
     <div className="h-screen flex justify-center items-center ">
       <ShinyText
